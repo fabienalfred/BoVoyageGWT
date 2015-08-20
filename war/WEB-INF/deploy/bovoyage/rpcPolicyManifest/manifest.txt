@@ -1,0 +1,3 @@
+# Module bovoyage
+# RPC service class, partial path of RPC policy file
+bovoyages.client.BoVoyageService, 51B2F49F617D5DD4E6B800B483F05745.gwt.rpc

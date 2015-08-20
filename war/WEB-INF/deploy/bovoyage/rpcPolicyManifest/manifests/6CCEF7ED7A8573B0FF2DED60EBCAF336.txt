@@ -1,0 +1,2 @@
+serviceClass: bovoyages.client.BoVoyageService
+path: 51B2F49F617D5DD4E6B800B483F05745.gwt.rpc
